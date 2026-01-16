@@ -36,16 +36,7 @@ I am a QA Lead with 9 years of experience in automation, manual, and performance
 
 ## 📂 Projects
 - 🔹 Automation Framework Design (Selenium / WDIO)
-- 🔹 End-to-End Test Automation for Web Applications
-  ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrKamalakarMahajan1993&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrKamalakarMahajan1993&theme=tokyonight" height="165"/>
-</p>
-
+- 🔹 End-to-End Test Automation for Web Application
 - 🔹 Performance Testing for health & wealth application
 
 ---
