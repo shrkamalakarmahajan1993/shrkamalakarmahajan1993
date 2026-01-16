@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Shraddha Mahajan  
 
-<!--
-**shrKamalakarMahajan1993/shrKamalakarMahajan1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 QA Lead | Automation | Manual | Performance Testing  
 
-Here are some ideas to get you started:
+I am a QA Lead with 9 years of experience in automation, manual, and performance testing, ensuring high-quality software delivery across complex applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💼 QA Lead with strong expertise in test strategy & execution
+- 🧪 Automation, Manual & Performance Testing specialist
+- 🚀 Passionate about improving quality through best testing practices
+
+---
+
+## 🎓 Education
+- **B.E. (Bachelor of Engineering)**  
+  Pune University — *2015*
+
+---
+
+## 🛠️ Skills
+- **Automation Testing:** Selenium, WebDriverIO, Playwright  
+- **Languages:** Java, JavaScript, TypeScript, Python  
+- **Frameworks:** Cucumber, TestNG, Robot Framework  
+- **Performance Testing:** LoadRunner  
+- **API Testing:** Postman  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Tools:** GitHub, JIRA, Confluence  
+
+---
+
+## 📂 Projects
+- 🔹 Automation Framework Design (Selenium / WDIO)
+- 🔹 End-to-End Test Automation for Web Applications
+- 🔹 Performance Testing for health & wealth application
+
+---
+
+## 📫 Contact Me
+- 📧 Email: mahajanshraddha1109@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/shraddhakmahajan 
+
+---
+⭐️ Feel free to explore my repositories and connect with me!
